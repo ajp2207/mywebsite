@@ -1,0 +1,26 @@
+body {
+	background-image: url("images/doubledutch.jpg");
+	background-size: 1500px 800px;
+	background-repeat: no-repeat;
+	background-color: PALEVIOLETRED;
+	color: white; 
+ 	}
+ .roundrect {
+ 	border-radius: 100px;
+ 	width:200px;
+ 	height:190px;
+ 	}
+ p {
+ 	margin-top: 50px;
+ 	}
+ #button {
+ 	color: white; 
+ 	background-color: red;
+ 	height: 25px;
+ 	border: transparent;
+ 	}	
+ #input {
+ 	height: 23px;
+ 	border: transparent;
+ 	margin: 5px;
+ 	}
